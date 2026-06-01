@@ -1,4 +1,4 @@
-<h1 align="center">OpenFrontIO-TroopTiming</h1>
+<h1 align="center">🪖 OpenFrontIO-TroopTiming</h1>
 
 <p align="center">
 <a href="https://github.com/Erogz/OpenFrontIO-TroopTiming">GitHub'da Görüntüle</a>
@@ -37,9 +37,3 @@ Değişiklik yapmak için:
 Kaynak kodu AGPL v3 lisansı altındadır. Detaylar için OpenFrontIO/LICENSE dosyasına bakın. ⚖️
 
 ## Screenshots
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Erogz/OpenFrontIO-TroopTiming/main/assets/TroopTiming1.png" alt="Troop Timing Overlay - Düşük Birlik" width="45%"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Erogz/OpenFrontIO-TroopTiming/main/assets/TroopTiming2.png" alt="Troop Timing Overlay - Yüksek Birlik" width="45%"/>
-</p>
