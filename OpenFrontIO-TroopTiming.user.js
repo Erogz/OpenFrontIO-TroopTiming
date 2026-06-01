@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         OpenFrontIO-TroopTiming
-// @namespace    http://tampermonkey.net/
+// @name OpenFrontIO-TroopTiming
+// @name:tr OpenFrontIO-TroopTiming
+// @namespace http://tampermonkey.net/
 // @version      1.0.0
-// @description  Real-time troop timing overlay for OpenFront.io
+// @description Real-time troop timing overlay for OpenFront.io
+// @description:tr OpenFront.io için gerçek zamanlı birlik timing overlay'i
 // @author       Erogz
 // @match        https://openfront.io/*
 // @match        https://openfront.dev/*
