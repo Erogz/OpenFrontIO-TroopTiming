@@ -1,14 +1,14 @@
 <h1 align="center">OpenFrontIO-TroopTiming</h1>
 
 <p align="center">
-  <img src="assets/TroopTimingNoBackground.svg" alt="OpenFrontIO-TroopTiming Logo" width="200"/>
+<img src="assets/TroopTimingNoBackground.svg" alt="OpenFrontIO-TroopTiming Logo" width="200"/>
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.tr.md">Türkçe</a>
+<a href="README.md">English</a> · <a href="README.tr.md">Türkçe</a>
 </p>
 
-[OpenFront.io](https://openfront.io/) oyunu için gerçek zamanlı birlik (troop) timing overlay'i. Tek bir userscript. Çalışması için tarayıcınıza Tampermonkey, Greasemonkey veya Violentmonkey gibi bir kullanıcı betiği eklentisi yüklemeniz gerekir. ✨
+[OpenFront.io](https://openfront.io/ target="_blank" rel="noopener noreferrer") oyunu için gerçek zamanlı birlik (troop) timing overlay'i. Tek bir userscript. Çalışması için tarayıcınıza <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a> veya <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a> gibi bir kullanıcı betiği eklentisi yüklemeniz gerekir. ✨
 
 ## 🚀 Özellikler
 
@@ -30,16 +30,16 @@
 ## 🛠️ Kurulum
 
 1. Tarayıcınıza bir kullanıcı betiği eklentisi yükleyin:
-   - [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Edge)
-   - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox)
-   - [Violentmonkey](https://violentmonkey.github.io/) (Chrome, Firefox, Edge)
+- <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a> (Chrome, Firefox, Edge)
+- <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a> (Firefox)
+- <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a> (Chrome, Firefox, Edge)
 2. Scripti yükleyin:
 
 **[📥 Scripti Yükle](OpenFrontIO-TroopTiming.user.js)** · **[📥 GreasyFork ile Yükle](https://greasyfork.org/scripts/580709-openfrontio-trooptiming)**
 
 Veya [`OpenFrontIO-TroopTiming.user.js`](OpenFrontIO-TroopTiming.user.js) dosyasının içeriğini yeni bir kullanıcı betiğine kopyalayın.
 
-3. [openfront.io](https://openfront.io/) veya [openfront.dev](https://openfront.dev/) adresine gidin — overlay otomatik olarak oyun sayfalarında görünecektir 🎮
+3. <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> veya <a href="https://openfront.dev/" target="_blank" rel="noopener noreferrer">openfront.dev</a> adresine gidin — overlay otomatik olarak oyun sayfalarında görünecektir 🎮
 
 ## 📁 Deposun Yapısı
 
@@ -51,10 +51,10 @@ OpenFrontIO-TroopTiming/
 ├── .gitignore
 ├── OpenFrontIO-TroopTiming.user.js # Userscript (Tampermonkey/Greasemonkey)
 ├── assets/ # Proje logoları ve ekran görüntüleri 🖼️
-│   ├── TroopTimingBackground.svg
-│   ├── TroopTimingNoBackground.svg
-│   ├── TroopTiming1.png
-│   └── TroopTiming2.png
+│ ├── TroopTimingBackground.svg
+│ ├── TroopTimingNoBackground.svg
+│ ├── TroopTiming1.png
+│ └── TroopTiming2.png
 └── colors/ # Material Design 3 renk şemaları 🎨
 ```
 
@@ -69,4 +69,4 @@ Değişiklik yapmak için:
 
 ## 📜 Lisans
 
-Kaynak kodu AGPL v3 lisansı altındadır. Detaylar için [OpenFrontIO/LICENSE](https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE). ⚖️
+Kaynak kodu AGPL v3 lisansı altındadır. Detaylar için <a href="https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">OpenFrontIO/LICENSE</a>'ya bakın. ⚖️

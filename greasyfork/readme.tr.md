@@ -1,10 +1,10 @@
 <h1 align="center">🪖 OpenFrontIO-TroopTiming</h1>
 
 <p align="center">
-<a href="https://github.com/Erogz/OpenFrontIO-TroopTiming">GitHub'da Görüntüle</a>
+<a href="https://github.com/Erogz/OpenFrontIO-TroopTiming" target="_blank" rel="noopener noreferrer">GitHub'da Görüntüle</a>
 </p>
 
-[OpenFront.io](https://openfront.io/) oyunu için gerçek zamanlı birlik (troop) timing overlay'i. Tek bir userscript. Çalışması için tarayıcınıza Tampermonkey, Greasemonkey veya Violentmonkey gibi bir kullanıcı betiği eklentisi yüklemeniz gerekir. ✨
+[OpenFront.io](https://openfront.io/) oyunu için gerçek zamanlı birlik (troop) timing overlay'i. Tek bir userscript. Çalışması için tarayıcınıza <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a> veya <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a> gibi bir kullanıcı betiği eklentisi yüklemeniz gerekir. ✨
 
 ## 🚀 Özellikler
 
@@ -17,11 +17,11 @@
 
 ## 🛠️ Kurulum
 
-Bu sayfanın üstündeki **Scripti Yükle** butonuna basın, ya da üst menüden **Kod** sekmesine geçerek kodu kopyalayın. Ardından openfront.io veya openfront.dev adresine gidin — overlay otomatik olarak oyun sayfalarında görünecektir. 🎮
+Bu sayfanın üstündeki **Scripti Yükle** butonuna basın, ya da üst menüden **Kod** sekmesine geçerek kodu kopyalayın. Ardından <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> veya <a href="https://openfront.dev/" target="_blank" rel="noopener noreferrer">openfront.dev</a> adresine gidin — overlay otomatik olarak oyun sayfalarında görünecektir. 🎮
 
 ## 📁 Depo
 
-Kaynak kod ve sorunlar: [github.com/Erogz/OpenFrontIO-TroopTiming](https://github.com/Erogz/OpenFrontIO-TroopTiming)
+Kaynak kod ve sorunlar: <a href="https://github.com/Erogz/OpenFrontIO-TroopTiming" target="_blank" rel="noopener noreferrer">github.com/Erogz/OpenFrontIO-TroopTiming</a>
 
 ## 💻 Geliştirme
 
@@ -34,6 +34,6 @@ Değişiklik yapmak için:
 
 ## 📜 Lisans
 
-Kaynak kodu AGPL v3 lisansı altındadır. Detaylar için OpenFrontIO/LICENSE dosyasına bakın. ⚖️
+Kaynak kodu AGPL v3 lisansı altındadır. Detaylar için <a href="https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">OpenFrontIO/LICENSE</a>'ya bakın. ⚖️
 
 ## Screenshots

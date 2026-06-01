@@ -1,10 +1,10 @@
 <h1 align="center">🪖 OpenFrontIO-TroopTiming</h1>
 
 <p align="center">
-<a href="https://github.com/Erogz/OpenFrontIO-TroopTiming">View on GitHub</a>
+<a href="https://github.com/Erogz/OpenFrontIO-TroopTiming" target="_blank" rel="noopener noreferrer">View on GitHub</a>
 </p>
 
-A userscript that adds a real-time troop timing overlay to [OpenFront.io](https://openfront.io/). Requires a userscript extension such as [Tampermonkey](https://www.tampermonkey.net/), [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), or [Violentmonkey](https://violentmonkey.github.io/). ✨
+A userscript that adds a real-time troop timing overlay to <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">OpenFront.io</a>. Requires a userscript extension such as <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a>, or <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a>. ✨
 
 ## 🚀 Features
 
@@ -17,11 +17,11 @@ A userscript that adds a real-time troop timing overlay to [OpenFront.io](https:
 
 ## 🛠️ Installation
 
-Click the **Install this script** button at the top of this page, or go to the **Code** tab from the top menu to copy the script manually. Then open openfront.io or openfront.dev — the overlay will appear automatically on game pages. 🎮
+Click the **Install this script** button at the top of this page, or go to the **Code** tab from the top menu to copy the script manually. Then open <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> or <a href="https://openfront.dev/" target="_blank" rel="noopener noreferrer">openfront.dev</a> — the overlay will appear automatically on game pages. 🎮
 
 ## 📁 Repository
 
-Source code and issues: [github.com/Erogz/OpenFrontIO-TroopTiming](https://github.com/Erogz/OpenFrontIO-TroopTiming)
+Source code and issues: <a href="https://github.com/Erogz/OpenFrontIO-TroopTiming" target="_blank" rel="noopener noreferrer">github.com/Erogz/OpenFrontIO-TroopTiming</a>
 
 ## 💻 Development
 

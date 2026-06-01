@@ -1,14 +1,14 @@
 <h1 align="center">OpenFrontIO-TroopTiming</h1>
 
 <p align="center">
-  <img src="assets/TroopTimingNoBackground.svg" alt="OpenFrontIO-TroopTiming Logo" width="200"/>
+<img src="assets/TroopTimingNoBackground.svg" alt="OpenFrontIO-TroopTiming Logo" width="200"/>
 </p>
 
 <p align="center">
-  <a href="README.md">English</a> · <a href="README.tr.md">Türkçe</a>
+<a href="README.md">English</a> · <a href="README.tr.md">Türkçe</a>
 </p>
 
-A userscript that adds a real-time troop timing overlay to [OpenFront.io](https://openfront.io/). Requires a userscript extension such as [Tampermonkey](https://www.tampermonkey.net/), [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), or [Violentmonkey](https://violentmonkey.github.io/). ✨
+A userscript that adds a real-time troop timing overlay to <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">OpenFront.io</a>. Requires a userscript extension such as <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a>, or <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a>. ✨
 
 ## 🚀 Features
 
@@ -30,16 +30,16 @@ A userscript that adds a real-time troop timing overlay to [OpenFront.io](https:
 ## 🛠️ Installation
 
 1. Install a userscript extension in your browser:
-   - [Tampermonkey](https://www.tampermonkey.net/) (Chrome, Firefox, Edge)
-   - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox)
-   - [Violentmonkey](https://violentmonkey.github.io/) (Chrome, Firefox, Edge)
+- <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a> (Chrome, Firefox, Edge)
+- <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a> (Firefox)
+- <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a> (Chrome, Firefox, Edge)
 2. Install the script:
 
 **[📥 Install Script](OpenFrontIO-TroopTiming.user.js)** · **[📥 Install from GreasyFork](https://greasyfork.org/scripts/580709-openfrontio-trooptiming)**
 
 Or copy the contents of [`OpenFrontIO-TroopTiming.user.js`](OpenFrontIO-TroopTiming.user.js) into a new userscript.
 
-3. Navigate to [openfront.io](https://openfront.io/) or [openfront.dev](https://openfront.dev/) — the overlay will appear automatically on game pages 🎮
+3. Navigate to <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> or <a href="https://openfront.dev/" target="_blank" rel="noopener noreferrer">openfront.dev</a> — the overlay will appear automatically on game pages 🎮
 
 ## 📁 Repository Structure
 
@@ -51,10 +51,10 @@ OpenFrontIO-TroopTiming/
 ├── .gitignore
 ├── OpenFrontIO-TroopTiming.user.js # Userscript (Tampermonkey/Greasemonkey)
 ├── assets/ # Project logos and screenshots 🖼️
-│   ├── TroopTimingBackground.svg
-│   ├── TroopTimingNoBackground.svg
-│   ├── TroopTiming1.png
-│   └── TroopTiming2.png
+│ ├── TroopTimingBackground.svg
+│ ├── TroopTimingNoBackground.svg
+│ ├── TroopTiming1.png
+│ └── TroopTiming2.png
 └── colors/ # Material Design 3 color schemes 🎨
 ```
 
@@ -69,4 +69,4 @@ To modify:
 
 ## 📜 License
 
-Source code is licensed under AGPL v3. See [OpenFrontIO/LICENSE](https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE) for details. ⚖️
+Source code is licensed under AGPL v3. See <a href="https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">OpenFrontIO/LICENSE</a> for details. ⚖️
