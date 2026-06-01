@@ -3,7 +3,7 @@
 <details>
 <summary><b>🇬🇧 English</b></summary>
 
-## 🪖 OpenFrontIO-TroopTiming v1.0.1
+## 🪖 OpenFrontIO-TroopTiming v1.1.0
 
 Real-time troop timing overlay userscript for [OpenFront.io](https://openfront.io/).
 
@@ -14,6 +14,13 @@ Real-time troop timing overlay userscript for [OpenFront.io](https://openfront.i
 - 🔴 Overrides troop badge to hide in-game counter
 - ⚡ 100% API-first, DOM scraping fallback
 - 📦 Single file, zero dependencies
+
+### Changes from v1.0.1
+
+- 🔄 Fixed `@namespace` for OpenUserJS compatibility
+- 🔄 Simplified `StorageHelper` to use synchronous GM_* API
+- 🔄 Updated `@license` to MIT for OUJS acceptance
+- 📦 Script now fully compatible with OUJS submission
 
 ### Installation
 
@@ -40,14 +47,14 @@ The overlay will appear automatically on game pages. 🎮
 
 ### Source
 
-Source code is licensed under AGPL v3. See [OpenFrontIO/LICENSE](https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE) for details. ⚖️
+Source code is licensed under MIT. ⚖️
 
 </details>
 
 <details>
 <summary><b>🇹🇷 Türkçe</b></summary>
 
-## 🪖 OpenFrontIO-TroopTiming v1.0.1
+## 🪖 OpenFrontIO-TroopTiming v1.1.0
 
 [OpenFront.io](https://openfront.io/) için gerçek zamanlı birlik timing overlay kullanıcı betiği.
 
@@ -84,6 +91,6 @@ Overlay oyun sayfalarında otomatik olarak görünecektir. 🎮
 
 ### Kaynak
 
-Kaynak kodu AGPL v3 lisansı altındadır. Detaylar için [OpenFrontIO/LICENSE](https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE) adresine bakın. ⚖️
+Kaynak kodu MIT lisansı altındadır. ⚖️
 
 </details>

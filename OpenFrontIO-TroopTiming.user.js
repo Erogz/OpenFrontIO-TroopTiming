@@ -1,20 +1,19 @@
 // ==UserScript==
 // @name OpenFrontIO-TroopTiming
 // @name:tr OpenFrontIO-TroopTiming
-// @namespace http://tampermonkey.net/
-// @version      1.0.1
+// @namespace https://github.com/Erogz/OpenFrontIO-TroopTiming
+// @version 1.1.0
 // @description Real-time troop timing overlay for OpenFront.io
 // @description:tr OpenFront.io için gerçek zamanlı birlik timing overlay'i
 // @author       Erogz
 // @match        https://openfront.io/*
-// @match https://openfront.dev/*
 // @match https://nightly.openfront.dev/*
 
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-idle
 // @homepage     https://github.com/Erogz/OpenFrontIO-TroopTiming
-// @license      AGPL-3.0
+// @license MIT
 // ==/UserScript==
 
 (function () {
@@ -24,22 +23,22 @@
   //  Storage (Tampermonkey GM_* API)
   // ══════════════════════════════════════════════════════════════
   const StorageHelper = {
-    async get(key, defaultValue = null) {
-      try {
-        const val = GM_getValue(key, undefined);
-        return val !== undefined ? val : defaultValue;
-      } catch (e) {
-        console.warn('[OFTT] StorageHelper.get error:', e.message);
-        return defaultValue;
-      }
-    },
-    async set(key, value) {
-      try {
-        GM_setValue(key, value);
-      } catch (e) {
-        console.warn('[OFTT] StorageHelper.set error:', e.message);
-      }
-    },
+  get(key, defaultValue = null) {
+    try {
+      const val = GM_getValue(key, defaultValue);
+      return val !== undefined ? val : defaultValue;
+    } catch (e) {
+      console.warn('[OFTT] StorageHelper.get error:', e.message);
+      return defaultValue;
+    }
+  },
+  set(key, value) {
+    try {
+      GM_setValue(key, value);
+    } catch (e) {
+      console.warn('[OFTT] StorageHelper.set error:', e.message);
+    }
+  },
   };
 
   // ══════════════════════════════════════════════════════════════
@@ -198,10 +197,13 @@
       this.startLoop();
     },
 
-    async loadSettings() {
-      const stored = await StorageHelper.get('troopOverlaySettings', {});
-      this.settings = { enabled: true, ...stored };
-    },
+  loadSettings() {
+    const stored = StorageHelper.get('troopOverlaySettings', {});
+    this.settings = {
+      enabled: true,
+      ...stored,
+    };
+  },
 
     createElements() {
       if (this.zoneBar) return;
