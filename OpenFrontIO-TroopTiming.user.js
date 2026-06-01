@@ -7,7 +7,9 @@
 // @description:tr OpenFront.io için gerçek zamanlı birlik timing overlay'i
 // @author       Erogz
 // @match        https://openfront.io/*
-// @match        https://openfront.dev/*
+// @match https://openfront.dev/*
+// @match https://nightly.openfront.dev/*
+
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @run-at       document-idle

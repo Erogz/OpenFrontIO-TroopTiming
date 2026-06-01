@@ -39,7 +39,7 @@ A userscript that adds a real-time troop timing overlay to <a href="https://open
 
 Or copy the contents of [`OpenFrontIO-TroopTiming.user.js`](OpenFrontIO-TroopTiming.user.js) into a new userscript.
 
-3. Navigate to <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> or <a href="https://openfront.dev/" target="_blank" rel="noopener noreferrer">openfront.dev</a> — the overlay will appear automatically on game pages 🎮
+3. Navigate to <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> or <a href="https://nightly.openfront.dev/" target="_blank" rel="noopener noreferrer">nightly.openfront.dev</a> — the overlay will appear automatically on game pages 🎮
 
 ## 📁 Repository Structure
 

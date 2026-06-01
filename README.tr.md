@@ -8,7 +8,7 @@
 <a href="README.md">English</a> · <a href="README.tr.md">Türkçe</a>
 </p>
 
-[OpenFront.io](https://openfront.io/ target="_blank" rel="noopener noreferrer") oyunu için gerçek zamanlı birlik (troop) timing overlay'i. Tek bir userscript. Çalışması için tarayıcınıza <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a> veya <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a> gibi bir kullanıcı betiği eklentisi yüklemeniz gerekir. ✨
+<a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">OpenFront.io</a> oyunu için gerçek zamanlı birlik (troop) timing overlay'i. Tek bir userscript. Çalışması için tarayıcınıza <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a> veya <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a> gibi bir kullanıcı betiği eklentisi yüklemeniz gerekir. ✨
 
 ## 🚀 Özellikler
 
@@ -39,7 +39,7 @@
 
 Veya [`OpenFrontIO-TroopTiming.user.js`](OpenFrontIO-TroopTiming.user.js) dosyasının içeriğini yeni bir kullanıcı betiğine kopyalayın.
 
-3. <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> veya <a href="https://openfront.dev/" target="_blank" rel="noopener noreferrer">openfront.dev</a> adresine gidin — overlay otomatik olarak oyun sayfalarında görünecektir 🎮
+3. <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> veya <a href="https://nightly.openfront.dev/" target="_blank" rel="noopener noreferrer">nightly.openfront.dev</a> adresine gidin — overlay otomatik olarak oyun sayfalarında görünecektir 🎮
 
 ## 📁 Deposun Yapısı
 
