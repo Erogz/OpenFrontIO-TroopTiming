@@ -19,19 +19,6 @@
 
 Bu sayfanın üstündeki **Scripti Yükle** butonuna basın, ya da üst menüden **Kod** sekmesine geçerek kodu kopyalayın. Ardından <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> veya <a href="https://openfront.dev/" target="_blank" rel="noopener noreferrer">openfront.dev</a> adresine gidin — overlay otomatik olarak oyun sayfalarında görünecektir. 🎮
 
-## 📁 Depo
-
-Kaynak kod ve sorunlar: <a href="https://github.com/Erogz/OpenFrontIO-TroopTiming" target="_blank" rel="noopener noreferrer">github.com/Erogz/OpenFrontIO-TroopTiming</a>
-
-## 💻 Geliştirme
-
-Script tek bağımsız bir JavaScript dosyasıdır. Build adımına gerek yoktur. ⚡
-
-Değişiklik yapmak için:
-1. `OpenFrontIO-TroopTiming.user.js` dosyasını düzenleyin
-2. Tampermonkey'de script simgesine tıklayın → Düzenle
-3. Veya dosyadan yeniden yükleyin
-
 ## 📜 Lisans
 
 Kaynak kodu AGPL v3 lisansı altındadır. Detaylar için <a href="https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">OpenFrontIO/LICENSE</a>'ya bakın. ⚖️

@@ -19,19 +19,6 @@ A userscript that adds a real-time troop timing overlay to <a href="https://open
 
 Click the **Install this script** button at the top of this page, or go to the **Code** tab from the top menu to copy the script manually. Then open <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> or <a href="https://openfront.dev/" target="_blank" rel="noopener noreferrer">openfront.dev</a> — the overlay will appear automatically on game pages. 🎮
 
-## 📁 Repository
-
-Source code and issues: <a href="https://github.com/Erogz/OpenFrontIO-TroopTiming" target="_blank" rel="noopener noreferrer">github.com/Erogz/OpenFrontIO-TroopTiming</a>
-
-## 💻 Development
-
-The script is a single self-contained JavaScript file. No build step required. ⚡
-
-To modify:
-1. Edit `OpenFrontIO-TroopTiming.user.js`
-2. In Tampermonkey, click the script icon → Edit
-3. Or reinstall from the file
-
 ## 📜 License
 
 Source code is licensed under AGPL v3. See OpenFrontIO/LICENSE for details. ⚖️
