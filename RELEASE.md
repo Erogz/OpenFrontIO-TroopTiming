@@ -3,7 +3,7 @@
 <details>
 <summary><b>🇬🇧 English</b></summary>
 
-## 🪖 OpenFrontIO-TroopTiming v1.0.0
+## 🪖 OpenFrontIO-TroopTiming v1.0.1
 
 Real-time troop timing overlay userscript for [OpenFront.io](https://openfront.io/).
 
@@ -47,7 +47,7 @@ Source code is licensed under AGPL v3. See [OpenFrontIO/LICENSE](https://github.
 <details>
 <summary><b>🇹🇷 Türkçe</b></summary>
 
-## 🪖 OpenFrontIO-TroopTiming v1.0.0
+## 🪖 OpenFrontIO-TroopTiming v1.0.1
 
 [OpenFront.io](https://openfront.io/) için gerçek zamanlı birlik timing overlay kullanıcı betiği.
 
