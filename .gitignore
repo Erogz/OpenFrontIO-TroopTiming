@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+npm-shrinkwrap.json
+
+# Build outputs
+dist/
+build/
+out/
+
+# Env files
+.env*
+!.env.example
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+*.debug.txt
+
+# Coverage
+coverage/
+
+# Temp files
+tmp/
+temp/
+.clinic/
+
+# Game source (OpenFrontIO fork - not part of this repo)
+# https://github.com/openfrontio/OpenFrontIO
+OpenFrontIO-main/
+
+# Local HTML game version (for testing/development)
+OpenFrontIO-HTML-menu/
+OpenFrontIO-HTML-ingame/
+
+# AI agent config
+AGENTS.md
