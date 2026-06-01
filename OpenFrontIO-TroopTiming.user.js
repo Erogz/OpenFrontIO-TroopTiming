@@ -2,7 +2,7 @@
 // @name OpenFrontIO-TroopTiming
 // @name:tr OpenFrontIO-TroopTiming
 // @namespace http://tampermonkey.net/
-// @version      1.0.0
+// @version      1.0.1
 // @description Real-time troop timing overlay for OpenFront.io
 // @description:tr OpenFront.io için gerçek zamanlı birlik timing overlay'i
 // @author       Erogz
