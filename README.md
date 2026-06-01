@@ -19,6 +19,14 @@ A Tampermonkey/Greasemonkey userscript that adds a real-time troop timing overla
   - Troop badge override with matching colors
   - Falls back to DOM scraping if the game API is unavailable
 
+## Screenshots
+
+<p align="center">
+  <img src="assets/TroopTiming1.png" alt="Troop Timing Overlay - Low Troops" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="assets/TroopTiming2.png" alt="Troop Timing Overlay - High Troops" width="45%"/>
+</p>
+
 ## Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) in your browser
@@ -36,9 +44,14 @@ A Tampermonkey/Greasemonkey userscript that adds a real-time troop timing overla
 OpenFrontIO-TroopTiming/
 ├── README.md                         # This file (English)
 ├── README.tr.md                      # Turkish version
+├── AGENTS.md                         # AI agent knowledge base
 ├── .gitignore
 ├── OpenFrontIO-TroopTiming.user.js   # Userscript (Tampermonkey/Greasemonkey)
-├── assets/                           # Project logos (SVG)
+├── assets/                           # Project logos and screenshots
+│   ├── TroopTimingBackground.svg
+│   ├── TroopTimingNoBackground.svg
+│   ├── TroopTiming1.png
+│   └── TroopTiming2.png
 └── colors/                           # Material Design 3 color schemes
 ```
 

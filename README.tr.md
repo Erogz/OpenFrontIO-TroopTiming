@@ -19,6 +19,14 @@
   - Birlik rozeti rengi override
   - Game API kullanılamıyorsa DOM scraping ile çalışır
 
+## Ekran Görüntüleri
+
+<p align="center">
+  <img src="assets/TroopTiming1.png" alt="Troop Timing Overlay - Düşük Birlik" width="45%"/>
+  &nbsp;&nbsp;
+  <img src="assets/TroopTiming2.png" alt="Troop Timing Overlay - Yüksek Birlik" width="45%"/>
+</p>
+
 ## Kurulum
 
 1. Tarayıcınıza [Tampermonkey](https://www.tampermonkey.net/) veya [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) yükleyin
@@ -36,9 +44,14 @@
 OpenFrontIO-TroopTiming/
 ├── README.md                         # İngilizce versiyon
 ├── README.tr.md                      # Bu dosya (Türkçe)
+├── AGENTS.md                         # AI ajan bilgi bankası
 ├── .gitignore
 ├── OpenFrontIO-TroopTiming.user.js   # Userscript (Tampermonkey/Greasemonkey)
-├── assets/                           # Proje logoları (SVG)
+├── assets/                           # Proje logoları ve ekran görüntüleri
+│   ├── TroopTimingBackground.svg
+│   ├── TroopTimingNoBackground.svg
+│   ├── TroopTiming1.png
+│   └── TroopTiming2.png
 └── colors/                           # Material Design 3 renk şemaları
 ```
 
