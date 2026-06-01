@@ -69,4 +69,4 @@ Değişiklik yapmak için:
 
 ## 📜 Lisans
 
-Kaynak kodu AGPL v3 lisansı altındadır. Detaylar için <a href="https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">OpenFrontIO/LICENSE</a>'ya bakın. ⚖️
+Kaynak kodu MIT lisansı altındadır. ⚖️

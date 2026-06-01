@@ -69,4 +69,4 @@ To modify:
 
 ## 📜 License
 
-Source code is licensed under AGPL v3. See <a href="https://github.com/openfrontio/OpenFrontIO/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">OpenFrontIO/LICENSE</a> for details. ⚖️
+Source code is licensed under MIT. ⚖️
