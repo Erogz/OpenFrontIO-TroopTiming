@@ -55,7 +55,7 @@ OpenFront.io'nun geliştiricisi **Evan** (u/OpenFrontOfficial), bu scripti incel
 - <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a> (Chrome, Firefox, Edge)
 2. Scripti yükleyin:
 
-**[📥 Scripti Yükle](OpenFrontIO-TroopTiming.user.js)** · **[📥 GreasyFork ile Yükle](https://greasyfork.org/scripts/580709-openfrontio-trooptiming)**
+**[📥 Scripti Yükle](OpenFrontIO-TroopTiming.user.js)** · **[📥 GreasyFork ile Yükle](https://greasyfork.org/scripts/580709-openfrontio-trooptiming)** · **[📥 OpenUserJS ile Yükle](https://openuserjs.org/scripts/Erogz/OpenFrontIO-TroopTiming)**
 
 Veya [`OpenFrontIO-TroopTiming.user.js`](OpenFrontIO-TroopTiming.user.js) dosyasının içeriğini yeni bir kullanıcı betiğine kopyalayın.
 

@@ -54,7 +54,7 @@ A userscript that adds a real-time troop timing overlay to <a href="https://open
 - <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a> (Chrome, Firefox, Edge)
 2. Install the script:
 
-**[📥 Install Script](OpenFrontIO-TroopTiming.user.js)** · **[📥 Install from GreasyFork](https://greasyfork.org/scripts/580709-openfrontio-trooptiming)**
+**[📥 Install Script](OpenFrontIO-TroopTiming.user.js)** · **[📥 Install from GreasyFork](https://greasyfork.org/scripts/580709-openfrontio-trooptiming)** · **[📥 Install from OpenUserJS](https://openuserjs.org/scripts/Erogz/OpenFrontIO-TroopTiming)**
 
 Or copy the contents of [`OpenFrontIO-TroopTiming.user.js`](OpenFrontIO-TroopTiming.user.js) into a new userscript.
 
