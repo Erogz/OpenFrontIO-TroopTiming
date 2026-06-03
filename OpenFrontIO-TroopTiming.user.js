@@ -10,9 +10,10 @@
 // @match https://nightly.openfront.dev/*
 
 // @grant        GM_getValue
-// @grant        GM_setValue
-// @run-at       document-idle
-// @homepage     https://github.com/Erogz/OpenFrontIO-TroopTiming
+// @grant GM_setValue
+// @run-at document-idle
+// @icon https://raw.githubusercontent.com/Erogz/OpenFrontIO-TroopTiming/main/assets/TroopTimingNoBackground.svg
+// @homepage https://github.com/Erogz/OpenFrontIO-TroopTiming
 // @license MIT
 // ==/UserScript==
 
