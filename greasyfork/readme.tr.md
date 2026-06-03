@@ -8,6 +8,16 @@
 ⚠️ <strong>Uyarı:</strong> Bu script, OpenFront.io'nun Kullanım Şartları'nı ihlal edebilir veya etmeyebilir. Eğitim amaçlıdır ve herhangi bir eylemi otomatikleştirmez — sadece mevcut oyun verilerini görselleştirir. Yazar, bu scriptin kullanımından doğabilecek her türlü sorun, hasar veya sonuçtan (hesap yasaklamaları dahil) sorumlu değildir. Kullanıcı kendi sorumluluğundadır.
 </blockquote>
 
+## ✅ Geliştiricinin Onayladığı Bilgiler
+
+OpenFront.io'nun geliştiricisi **Evan** (u/OpenFrontOfficial), bu scripti inceleyerek oyunun kuralları çerçevesinde onayladığını belirtti:
+
+> **"Our policy on extensions: they're allowed only if they provide or enhance information. They cannot take actions on behalf of the player. So this one is fine."**
+> *(Çeviri: Eklenti politikamız şöyle: sadece bilgi sağlıyor veya zenginleştiriyorsa izin verilir. Oyuncunun adına işlem yapamazlar. Yani bu kural dışında değil.)*
+
+- [Kaynak: Reddit yorum dizisi](https://www.reddit.com/r/Openfront/comments/1ttva2t/comment/op6ka4w/?screen_view_count=2)
+- Bu script tamamen kuralara uyuyor: **sadece mevcut oyun verilerini görselleştirir** ve oyuncunun adına hiçbir eylemde bulunmaz.
+
 [OpenFront.io](https://openfront.io/) oyunu için gerçek zamanlı birlik (troop) timing overlay'i. Tek bir userscript. Çalışması için tarayıcınıza <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a> veya <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a> gibi bir kullanıcı betiği eklentisi yüklemeniz gerekir. ✨
 
 ## 🚀 Özellikler
@@ -24,3 +34,7 @@
 Bu sayfanın üstündeki **Scripti Yükle** butonuna basın, ya da üst menüden **Kod** sekmesine geçerek kodu kopyalayın. Ardından <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">openfront.io</a> veya <a href="https://nightly.openfront.dev/" target="_blank" rel="noopener noreferrer">nightly.openfront.dev</a> adresine gidin — overlay otomatik olarak oyun sayfalarında görünecektir. 🎮
 
 ## Ekran Görüntüleri
+
+<p align="center">
+<img src="../assets/DeveloperAnswered.png" alt="OpenFront.io geliştiricisi Evan bu scriptin izin verildiğini doğruluyor" width="80%"/>
+</p>

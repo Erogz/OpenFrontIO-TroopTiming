@@ -2,7 +2,7 @@
 // @name OpenFrontIO-TroopTiming
 // @name:tr OpenFrontIO-TroopTiming
 // @namespace https://github.com/Erogz/OpenFrontIO-TroopTiming
-// @version 1.1.0
+// @version 1.1.1
 // @description Real-time troop timing overlay for OpenFront.io
 // @description:tr OpenFront.io için gerçek zamanlı birlik timing overlay'i
 // @author       Erogz

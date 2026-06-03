@@ -7,7 +7,7 @@
 ⚠️ <strong>Disclaimer:</strong> This script may or may not violate OpenFront.io's Terms of Service. This script is for educational purposes and does not automate any actions — it only visualizes existing game data. The author is not responsible for any issues, damages, or consequences arising from the use of this script (including account bans). Use at your own risk.
 </blockquote>
 
-## 🪖 OpenFrontIO-TroopTiming v1.1.0
+## 🪖 OpenFrontIO-TroopTiming v1.1.1
 
 Real-time troop timing overlay userscript for [OpenFront.io](https://openfront.io/).
 
@@ -18,6 +18,15 @@ Real-time troop timing overlay userscript for [OpenFront.io](https://openfront.i
 - 🔴 Overrides troop badge to hide in-game counter
 - ⚡ 100% API-first, DOM scraping fallback
 - 📦 Single file, zero dependencies
+
+### Official Developer Clarification
+
+The developer of OpenFront.io, **Evan** (u/OpenFrontOfficial), reviewed this script and confirmed it is allowed under his policy:
+
+> **"Our policy on extensions: they're allowed only if they provide or enhance information. They cannot take actions on behalf of the player. So this one is fine."**
+
+- [Source: Reddit comment thread](https://www.reddit.com/r/Openfront/comments/1ttva2t/comment/op6ka4w/?screen_view_count=2)
+- This script fully complies with the policy: it **only visualizes existing game data** and takes no actions on the player's behalf.
 
 ### Changes from v1.0.1
 
@@ -62,7 +71,7 @@ Source code is licensed under MIT. ⚖️
 ⚠️ <strong>Uyarı:</strong> Bu script, OpenFront.io'nun Kullanım Şartları'nı ihlal edebilir veya etmeyebilir. Eğitim amaçlıdır ve herhangi bir eylemi otomatikleştirmez — sadece mevcut oyun verilerini görselleştirir. Yazar, bu scriptin kullanımından doğabilecek her türlü sorun, hasar veya sonuçtan (hesap yasaklamaları dahil) sorumlu değildir. Kullanıcı kendi sorumluluğundadır.
 </blockquote>
 
-## 🪖 OpenFrontIO-TroopTiming v1.1.0
+## 🪖 OpenFrontIO-TroopTiming v1.1.1
 
 [OpenFront.io](https://openfront.io/) için gerçek zamanlı birlik timing overlay kullanıcı betiği.
 
@@ -73,6 +82,16 @@ Source code is licensed under MIT. ⚖️
 - 🔴 Oyun içi sayacı gizlemek için birlik rozetini override eder
 - ⚡ %100 API-first, DOM scraping fallback
 - 📦 Tek dosya, sıfır bağımlılık
+
+### Geliştirici Onayı
+
+OpenFront.io'nun geliştiricisi **Evan** (u/OpenFrontOfficial), bu scripti inceleyerek kurallarımız çerçevesinde onayladığını belirtti:
+
+> **"Our policy on extensions: they're allowed only if they provide or enhance information. They cannot take actions on behalf of the player. So this one is fine."**
+> *(Çeviri: Eklentilerin politikamız şöyle: sadece bilgi sağlıyor veya zenginleştiriyorsa izin verilir. Oyuncunun adına işlem yapamazlar. Yani bu kural dışında değil.)*
+
+- [Kaynak: Reddit yorum dizisi](https://www.reddit.com/r/Openfront/comments/1ttva2t/comment/op6ka4w/?screen_view_count=2)
+- Bu script tamamen kuralara uyuyor: **sadece mevcut oyun verilerini görselleştirir** ve oyuncunun adına hiçbir eylemde bulunmaz.
 
 ### Kurulum
 

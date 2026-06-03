@@ -8,6 +8,16 @@
 ⚠️ <strong>Disclaimer:</strong> This script may or may not violate OpenFront.io's Terms of Service. This script is for educational purposes and does not automate any actions — it only visualizes existing game data. The author is not responsible for any issues, damages, or consequences arising from the use of this script (including account bans). Use at your own risk.
 </blockquote>
 
+## ✅ Official Developer Clarification
+
+The developer of OpenFront.io, **Evan** (u/OpenFrontOfficial), reviewed this script and confirmed it is allowed under his policy:
+
+> **"Our policy on extensions: they're allowed only if they provide or enhance information. They cannot take actions on behalf of the player. So this one is fine."**
+
+- [Source: Reddit comment thread](https://www.reddit.com/r/Openfront/comments/1ttva2t/comment/op6ka4w/?screen_view_count=2)
+- This script fully complies with the policy: it **only visualizes existing game data** and takes no actions on the player's behalf.
+
+
 A userscript that adds a real-time troop timing overlay to <a href="https://openfront.io/" target="_blank" rel="noopener noreferrer">OpenFront.io</a>. Requires a userscript extension such as <a href="https://www.tampermonkey.net/" target="_blank" rel="noopener noreferrer">Tampermonkey</a>, <a href="https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/" target="_blank" rel="noopener noreferrer">Greasemonkey</a>, or <a href="https://violentmonkey.github.io/" target="_blank" rel="noopener noreferrer">Violentmonkey</a>. ✨
 
 ## 🚀 Features
