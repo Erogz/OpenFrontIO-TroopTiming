@@ -7,7 +7,7 @@
 ⚠️ <strong>Disclaimer:</strong> This script may or may not violate OpenFront.io's Terms of Service. This script is for educational purposes and does not automate any actions — it only visualizes existing game data. The author is not responsible for any issues, damages, or consequences arising from the use of this script (including account bans). Use at your own risk.
 </blockquote>
 
-## 🪖 OpenFrontIO-TroopTiming v1.1.1
+## 🪖 OpenFrontIO-TroopTiming v1.1.2
 
 Real-time troop timing overlay userscript for [OpenFront.io](https://openfront.io/).
 
@@ -71,7 +71,7 @@ Source code is licensed under MIT. ⚖️
 ⚠️ <strong>Uyarı:</strong> Bu script, OpenFront.io'nun Kullanım Şartları'nı ihlal edebilir veya etmeyebilir. Eğitim amaçlıdır ve herhangi bir eylemi otomatikleştirmez — sadece mevcut oyun verilerini görselleştirir. Yazar, bu scriptin kullanımından doğabilecek her türlü sorun, hasar veya sonuçtan (hesap yasaklamaları dahil) sorumlu değildir. Kullanıcı kendi sorumluluğundadır.
 </blockquote>
 
-## 🪖 OpenFrontIO-TroopTiming v1.1.1
+## 🪖 OpenFrontIO-TroopTiming v1.1.2
 
 [OpenFront.io](https://openfront.io/) için gerçek zamanlı birlik timing overlay kullanıcı betiği.
 
