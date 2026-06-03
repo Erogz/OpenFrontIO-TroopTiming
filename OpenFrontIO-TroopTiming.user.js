@@ -2,7 +2,7 @@
 // @name OpenFrontIO-TroopTiming
 // @name:tr OpenFrontIO-TroopTiming
 // @namespace https://github.com/Erogz/OpenFrontIO-TroopTiming
-// @version 1.1.2
+// @version 1.1.3
 // @description Real-time troop timing overlay for OpenFront.io
 // @description:tr OpenFront.io için gerçek zamanlı birlik timing overlay'i
 // @author       Erogz
@@ -12,7 +12,7 @@
 // @grant        GM_getValue
 // @grant GM_setValue
 // @run-at document-idle
-// @icon https://raw.githubusercontent.com/Erogz/OpenFrontIO-TroopTiming/main/assets/TroopTimingNoBackground.svg
+// @icon data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MDAgNTAwIiB4bWw6c3BhY2U9InByZXNlcnZlIj4KICA8ZyBzdHJva2U9IiMwMDgzOGYiPgogICAgPHBhdGggZD0ibTI2MC44NjEgMzcxLjY1MSAxMS44MDcgMjMuMjk3YTggOCAwIDAgMCA3LjE0MyA0LjM4NmMxLjIxNiAwIDIuNDUtLjI3OCAzLjYwOS0uODY2YTggOCAwIDAgMCAzLjUyLTEwLjc1MmwtMTEuNzE5LTIyLjg3NC0xNS4yMi0xMTQuMTc3aDEzOC4xOTVsLTMuMDExLTQ5LjkzNGMtMy4zMjctNTQuODk4LTUxLjA0OS0xMDAuMDY2LTEwNi4wNDktMTAwLjA2NmgtODdjLTU1IDAtMTAwLjMzMyA0NS0xMDAuMzMzIDEwMHY5OWg5MS4xNjF6bS01MS4yNjQtNzcuNjY4IDM1LjIxNi0zNi42NTEgMTEuNDU3IDg2LjEzM3oiIGZpbGw9IiMwMDgzOGYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgogICAgPHRleHQgeD0iMTQ5LjMzNCIgeT0iMTEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iSW50ZXIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmb250LXNpemU9IjgwIiBmaWxsPSIjMWUxZTJlIiBzdHJva2Utd2lkdGg9IjIiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDEwMC42NjUgMTAwLjY2NSkiPlRUPC90ZXh0PgogIDwvZz4KPC9zdmc+Cg==
 // @homepage https://github.com/Erogz/OpenFrontIO-TroopTiming
 // @license MIT
 // ==/UserScript==
